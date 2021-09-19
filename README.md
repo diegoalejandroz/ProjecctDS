@@ -8,6 +8,8 @@
 **Técnica de Segmentación:** K-Means  
 **Otras Técnicas:** Análisis de Componentes Principales PCA
 **Recurso de Azure:** Databricks  
+**DataSet del sitio Kaggle** __[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)__  
+
 
 ## Problema
 Las empresas trabajan incansablemente para aumentar su productividad. Para lograr esto se valen de tecnologías avanzadas que han ido aumentando significativamente. Machine Learning ha logrado que las empresas encuentren insights importantes a partir de los datos de sus clientes. La segmentación ha acaparado la atención y ha sido de uso constante en el marketing estratégico que puede ayudar a ofrecer productos específicos de acuerdo al segmento logrado, identificación de nuevos mercados, consolidación de marca, oportunidades en nuevos productos, entre otros.
@@ -23,5 +25,5 @@ Diseñar un modelo de segmentación que permita lanzar campañas de marketing di
 * Seleccionar el número óptimo de Clusters que permita una adecuada segmentación de mercado específico.
 * Investigar y aplicar modelo de análisis de componentes principales PCA que permita establecer una varianza explicada de los datos de mínimo 90%.
 
-## DataSet del sitio Kaggle
-__[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)__
+
+
