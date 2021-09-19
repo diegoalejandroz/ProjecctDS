@@ -6,6 +6,7 @@
 
 **Técnica de Machine Learning:** Aprendizaje NO Supervisado - Clustering  
 **Técnica de Segmentación:** K-Means  
+**Otras Técnicas:** Análisis de Componentes Principales PCA
 **Recurso de Azure:** Databricks  
 
 ## Problema
