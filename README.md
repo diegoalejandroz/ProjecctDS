@@ -4,11 +4,11 @@
 **Programa:** Científico de Datos Nivel Intermedio  
 **Centro:** Universidad EAFIT en alianza con Microsoft y la empresa Idata  
 
-**Técnica de Machine Learning:**  Aprendizaje NO Supervisado - Clustering  
-**Técnica de Segmentación:**      K-Means  
-**Otras Técnicas aplicadas:**     Análisis de Componentes Principales PCA  
-**Recurso de Azure:**             Databricks  
-**DataSet del sitio Kaggle**      __[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)__  
+**Técnica de Machine Learning:** Aprendizaje NO Supervisado - Clustering  
+**Técnica de Segmentación:** K-Means  
+**Otras Técnicas aplicadas:** Análisis de Componentes Principales PCA  
+**Recurso de Azure:** Databricks  
+**DataSet Kaggle:**  __[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)__  
 
 
 ## Problema
