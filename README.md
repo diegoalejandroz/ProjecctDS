@@ -1,14 +1,14 @@
 # Proyecto Segmentación de clientes para lanzamiento de campañas de marketing
 
 **Fecha:** Septiembre de 2021  
-**Nombre:** Diego Alejandro Zapata Marín  
-**Programa:** Científico de Datos Nivel Intermedio  
+**Elaborado por:** Diego Alejandro Zapata Marín  
+**Programa:** Científico de Datos - Nivel Intermedio  
 **Centro:** Universidad EAFIT en alianza con Microsoft y la empresa Idata  
 
 **Técnica de Machine Learning:** Aprendizaje NO Supervisado - Clustering  
 **Técnica de Segmentación:** K-Means  
 **Otras Técnicas aplicadas:** Análisis de Componentes Principales PCA  
-**Recurso de Azure:** Databricks  
+**Recurso de Azure:** Azure Databricks  
 **DataSet Kaggle:**  __[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)__  
 
 
