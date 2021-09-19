@@ -14,9 +14,9 @@
 
 ## Contexto
 Este proyecto corresponde a la construcción de un modelo de segmentación de clientes con el objetivo de crear campañas de marketing de acuerdo a sus necesidades específicas, que permita consolidar la marca, aumentas los ingresos y apalancar el crecimiento de las ventas.
-Pueden encontras lo siguiente:  
-1. En la carpeta EDA se puede encontrar en análisis descriptivo y exploratorio de los datos, incluyendo el análisis de correlación de todas las variables del dataset.
-2. En la carpeta PCA se encuentra el análisis de componentes principales que permite reducir la dimensión del dataset determinar el número de componentes necesarios para que, en nuestro caso, la varianza explicada sea mínimo 80%.
+Allí puedes encontrar lo siguiente:  
+1. En la carpeta EDA se encuentra el análisis descriptivo y exploratorio de los datos, incluyendo el análisis de correlación de todas las variables del dataset.
+2. En la carpeta PCA se encuentra el análisis de componentes principales que permite reducir la dimensión del dataset y, de esta manera, determinar el número de componentes necesarios para que, en nuestro caso, la varianza explicada sea mínimo 80%.
 3. En la carpeta Segmentación K-Means se desarrolla la construcción del modelo de aprendizaje NO supervisado K-Means tras la preparación de los datos. La elección del número óptimo K de clusters se hará con base en el "método del codo"
 
 ## Problema
