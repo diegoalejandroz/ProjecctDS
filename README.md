@@ -30,6 +30,6 @@ Diseñar un modelo de segmentación que permita lanzar campañas de marketing di
 1. Definición del Problema
 2. Obtención de los datos
 3. Limpieza de datos
-4. Exploración de los datos, visualización y análisis descriptivo
+4. Exploración de los datos y análisis descriptivo
 5. Modelado de datos
 6. Resultados y Conclusiones
