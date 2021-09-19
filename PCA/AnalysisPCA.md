@@ -37,12 +37,12 @@ Como es un algoritmo basado en distancias y hay variables con magnitudes muy dif
 scaler = StandardScaler()
 creditcard_df_scaled = scaler.fit_transform(creditcard_df)
 ```
-# Análisis de Componentes Principales
+## Análisis de Componentes Principales
 ```
 pca = PCA().fit(creditcard_df_scaled)
 ```
 
-# Gráfica de PCA
+## Gráfica de PCA
 ```
 import matplotlib.pyplot as plt
 plt.rcParams["figure.figsize"] = (12,6)
@@ -66,14 +66,14 @@ ax.grid(axis='x')
 plt.show()
 ```
 
-# Reducir las dimensiones (variables) con PCA. 7 dimensiones que explican el 80% de la varianza del total de los datos
+## Reducir las dimensiones (variables) con PCA. 7 dimensiones que explican el 80% de la varianza del total de los datos
 ```
 pca = PCA(n_components = 7)
 principal_comp = pca.fit_transform(creditcard_df_scaled)
 pca.explained_variance_ratio_.sum()
 ```
 
-# DataFrame con las 7 componentes
+## DataFrame con las 7 componentes
 ```
 pca_df = pd.DataFrame(data = principal_comp, columns=["pca1", "pca2", "pca3", "pca4", "pca5", "pca6", "pca7"])
 ```
