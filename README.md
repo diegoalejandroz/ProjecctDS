@@ -6,7 +6,7 @@
 
 **Técnica de Machine Learning:** Aprendizaje NO Supervisado - Clustering  
 **Técnica de Segmentación:** K-Means  
-**Otras Técnicas:** Análisis de Componentes Principales PCA
+**Otras Técnicas aplicadas:** Análisis de Componentes Principales PCA  
 **Recurso de Azure:** Databricks  
 **DataSet del sitio Kaggle** __[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)__  
 
