@@ -1,6 +1,6 @@
 # Proyecto Segmentación de clientes para lanzamiento de campañas de marketing
 
-**Fecha:** Septiembre de 2021
+**Fecha:** Septiembre de 2021  
 **Nombre:** Diego Alejandro Zapata Marín  
 **Programa:** Científico de Datos Nivel Intermedio  
 **Centro:** Universidad EAFIT en alianza con Microsoft y la empresa Idata  
