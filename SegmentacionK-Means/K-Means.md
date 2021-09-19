@@ -1,13 +1,14 @@
 # Segmentación de Clientes con K-Means
 
 ## Cargar librerías
-
+```
 import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler, normalize
 from sklearn.cluster import KMeans
+```
 
 ## Cargar DataSet
 creditcard_df = pd.read_csv("Marketing_data.csv")
