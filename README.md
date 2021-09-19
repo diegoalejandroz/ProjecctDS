@@ -6,3 +6,17 @@
 
 ## Problema
 Las empresas trabajan incansablemente para aumentar su productividad. Para lograr esto se valen de tecnologías avanzadas que han ido aumentando significativamente. Machine Learning ha logrado que las empresas encuentren insights importantes a partir de los datos de sus clientes. La segmentación ha acaparado la atención y ha sido de uso constante en el marketing estratégico que puede ayudar a ofrecer productos específicos de acuerdo al segmento logrado, identificación de nuevos mercados, consolidación de marca, oportunidades en nuevos productos, entre otros.
+
+## Pregunta de Investigación
+¿ Cómo construir un modelo de Machine Learning No supervisado que permita segmentar los clientes de un Banco ofreciendo campañas de marketing de acuerdo a sus necesidades particulares?
+
+## Objetivo General
+Diseñar un modelo de segmentación que permita lanzar campañas de marketing dirigida a los clientes de un banco en la ciudad de New York.
+
+## Objetivos Específicos	
+* Encontrar, a partir de análisis descriptivo de datos, características similares de grupos de clientes que puedan ayudar a identificar sus necesidades particulares.
+* Seleccionar el número óptimo de Clusters que permita una adecuada segmentación de mercado específico.
+* Investigar y aplicar modelo de análisis de componentes principales PCA que permita establecer una varianza explicada de los datos de mínimo 90%.
+
+## DataSet del sitio Kaggle
+__[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)__
