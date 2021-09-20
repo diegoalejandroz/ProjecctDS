@@ -40,7 +40,7 @@ La Inteligencia Artificial y el Machine Learning
     
 **Fase I** Contexto y definición del problema  
    * Pregunta de Investigación  
-   * Revisión de Literatura y estado del arte  
+   * Revisión de Literatura, Estado del arte y Bibliografia  
    * Implicaciones Éticas  
    * Aspectos legales y comerciales  
  
