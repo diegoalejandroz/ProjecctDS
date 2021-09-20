@@ -58,7 +58,10 @@ La Inteligencia Artificial y el Machine Learning
    * Selección de columnas para los modelos  
 
    
-**Fase IV** Preparación y Limpieza de Datos
-4. Exploración de los datos y análisis descriptivo
+**Fase V** Exploración y Análisis Descriptivo  
+   * Estadísticos de cada variables  
+   * Análisis exploratorio con histogramas  
+   * Análisis de correlación    
+
 5. Modelado de datos
 6. Resultados y Conclusiones
