@@ -55,13 +55,18 @@ La Inteligencia Artificial y el Machine Learning
 
 **Fase IV** Preparación y Limpieza de Datos  
    * Datos faltantes NA  
-   * Selección de columnas para los modelos  
+   * Selección de columnas para el modelo de datos
 
    
 **Fase V** Exploración y Análisis Descriptivo  
-   * Estadísticos de cada variables  
+   * Estadísticos de cada variable  
    * Análisis exploratorio con histogramas  
    * Análisis de correlación    
 
-5. Modelado de datos
-6. Resultados y Conclusiones
+**Fase VI** Modelado de Datos
+   * Análisis de Componentes Principales  
+   * Reducción de dimensiones con PCA  
+   * Segmentación con K-Means  
+
+**Fase VII** Conclusiones y Trabajo Futuro
+
