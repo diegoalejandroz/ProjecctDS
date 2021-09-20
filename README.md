@@ -40,7 +40,7 @@ La Inteligencia Artificial y el Machine Learning
     
 **Fase I** Contexto y definición del problema  
    * Pregunta de Investigación  
-   * Estado del arte y Bibliografía  
+   * Revisión de Literatura y estado del arte  
    * Implicaciones Éticas  
    * Aspectos legales y comerciales  
  
@@ -52,6 +52,11 @@ La Inteligencia Artificial y el Machine Learning
    * Carga de Librerías
    * Carga de datos
    * Resumen de variables
+
+**Fase IV** Preparación y Limpieza de Datos  
+   * Datos faltantes NA  
+   * Selección de columnas para los modelos  
+
    
 **Fase IV** Preparación y Limpieza de Datos
 4. Exploración de los datos y análisis descriptivo
