@@ -33,6 +33,9 @@ Diseñar un modelo de segmentación que permita lanzar campañas de marketing di
 * Seleccionar el número óptimo de Clusters que permita una adecuada segmentación de mercado específico.
 * Investigar y aplicar modelo de análisis de componentes principales PCA que permita establecer una varianza explicada de los datos de mínimo 90%.
 
+## Implicaciones Éticas
+La Inteligencia Artificial y el Machine Learning
+
 ## Plan y Actividades del Proyecto
 1. Definición del Problema
 2. Obtención de los datos
