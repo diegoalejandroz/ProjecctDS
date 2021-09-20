@@ -13,7 +13,7 @@
 
 
 ## Contexto
-Este proyecto corresponde a la construcción de un modelo de segmentación de clientes con el objetivo de crear campañas de marketing de acuerdo a sus necesidades específicas, que permita consolidar la marca, aumentas los ingresos y apalancar el crecimiento de las ventas.
+Este proyecto corresponde a la construcción de un modelo de segmentación de clientes con el objetivo de crear campañas de marketing de acuerdo a sus necesidades específicas, que permita consolidar la marca, aumentar los ingresos y apalancar el crecimiento de las ventas.
 Allí puedes encontrar lo siguiente:  
    * En la carpeta EDA se encuentra el código en Python del análisis descriptivo y exploratorio de los datos, incluyendo el análisis de correlación de todas las variables del dataset.  
    * En la carpeta PCA se encuentra el código en Python del análisis de componentes principales que permite reducir la dimensión del dataset y, de esta manera, determinar el número de componentes necesarios para que, en nuestro caso, la varianza explicada sea mínimo 80%.  
