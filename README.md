@@ -38,7 +38,8 @@ La Inteligencia Artificial y el Machine Learning
 
 ## Plan y Fases del Proyecto
 Fase 1. Contexto y definición del problema  
-    Pregunta de Investigación  
+    + Pregunta de Investigación  
+    + Implicaciones Éticas
 Fase 2. Objetivos
     Objetivo General
     Objetivos Específicos
