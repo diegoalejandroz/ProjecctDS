@@ -37,16 +37,17 @@ Diseñar un modelo de segmentación que permita lanzar campañas de marketing di
 La Inteligencia Artificial y el Machine Learning
 
 ## Plan y Fases del Proyecto
-**Fase I** Contexto y definición del problema  
-    * Pregunta de Investigación  
-    * Estado del arte y Bibliografía
-    * Implicaciones Éticas  
-    * Aspectos legales y comerciales  
     
+**Fase I** Contexto y definición del problema  
+   * Pregunta de Investigación  
+   * Estado del arte y Bibliografía  
+   * Implicaciones Éticas  
+   * Aspectos legales y comerciales  
+ 
 **Fase II** Objetivos
-    * Objetivo General
-    * Objetivos Específicos
-
+   * Objetivo General  
+   * Objetivos Específicos  
+ 
 **Fase III** Obtención de los datos
    * Carga de Librerías
    * Carga de datos
