@@ -32,7 +32,6 @@ creditcard_df.loc[(creditcard_df['CREDIT_LIMIT'].isnull() == True), 'CREDIT_LIMI
 creditcard_df.drop("CUST_ID", axis = 1, inplace=True)
 ```
 ## Escalado de los datos. 
-Como es un algoritmo basado en distancias y hay variables con magnitudes muy diferentes, es necesario escalar
 ```
 scaler = StandardScaler()
 creditcard_df_scaled = scaler.fit_transform(creditcard_df)
