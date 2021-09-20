@@ -36,8 +36,13 @@ Diseñar un modelo de segmentación que permita lanzar campañas de marketing di
 ## Implicaciones Éticas
 La Inteligencia Artificial y el Machine Learning
 
-## Plan y Actividades del Proyecto
-1. Definición del Problema
+## Plan y Fases del Proyecto
+Fase 1. Contexto y definición del problema  
+    Pregunta de Investigación  
+Fase 2. Objetivos
+    Objetivo General
+    Objetivos Específicos
+  
 2. Obtención de los datos
 3. Limpieza de datos
 4. Exploración de los datos y análisis descriptivo
