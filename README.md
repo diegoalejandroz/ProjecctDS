@@ -34,7 +34,13 @@ Diseñar un modelo de segmentación que permita lanzar campañas de marketing di
 * Investigar y aplicar modelo de análisis de componentes principales PCA que permita establecer una varianza explicada de los datos de mínimo 90%.
 
 ## Implicaciones Éticas
-La Inteligencia Artificial y el Machine Learning
+La Inteligencia Artificial y el Machine Learning ha tenido un auge durante los últimos años y se espera que en los próximos años, los líderes empresariales tengan dentro de su trabajo estas herramientas.  
+Las decisiones que toman estos modelos de aprendizaje automático toman cada vez más relevancia y por esto es necesario que lo hagan de manera correcta. Es por esto, que es fundamental enseñarle a estos modelos no solo con información, sino también con principios, ética, responsabilidad, transparencia y que estos se comporten de manera responsable.
+
+## Aspectos Legales y Comerciales
+El modelo desarrollado es para el bien común y el beneficio de toda persona que ingrese al mundo de machine learning con esta técnica de aprendizaje no supervisado (Clustering).  
+El modelo será de conocimiento accesible y uso público a cualquier usuario.  
+
 
 ## Plan y Fases del Proyecto
     
