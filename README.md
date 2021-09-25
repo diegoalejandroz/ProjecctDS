@@ -17,7 +17,8 @@ Este proyecto corresponde a la construcción de un modelo de segmentación de cl
 Allí puedes encontrar lo siguiente:  
    * En la carpeta EDA se encuentra el código en Python del análisis descriptivo y exploratorio de los datos, incluyendo el análisis de correlación de todas las variables del dataset.  
    * En la carpeta PCA se encuentra el código en Python del análisis de componentes principales que permite reducir la dimensión del dataset y, de esta manera, determinar el número de componentes necesarios para que, en nuestro caso, la varianza explicada sea mínimo 80%.  
-   * En la carpeta Segmentación K-Means encuentra el código en Python donde se desarrolla la construcción del modelo de aprendizaje NO supervisado K-Means tras la preparación de los datos. La elección del número óptimo K de clusters se realizó con base en el "método del codo".    
+   * En la carpeta Segmentación K-Means encuentra el código en Python donde se desarrolla la construcción del modelo de aprendizaje NO supervisado K-Means tras la preparación de los datos. La elección del número óptimo K de clusters se realizó con base en el "método del codo".  
+   * Código completo en Jupyter Notebook en Full-ProjectDS.  
 
 ## Problema
 Las empresas trabajan incansablemente para aumentar la productividad. Para lograr esto se valen de tecnologías avanzadas que han ido aumentando significativamente. Machine Learning ha logrado que las empresas encuentren insights importantes a partir de los datos de sus clientes. La segmentación es un método de aprendizaje no supervisado que ha acaparado la atención y ha sido de uso constante en el marketing estratégico que puede ayudar a ofrecer productos específicos de acuerdo al segmento logrado, identificación de nuevos mercados, consolidación de marca, oportunidades en nuevos productos, entre otros.
@@ -31,7 +32,7 @@ Diseñar un modelo de segmentación que permita lanzar campañas de marketing di
 ## Objetivos Específicos	
 * Encontrar, a partir de análisis descriptivo de datos, características similares de grupos de clientes que puedan ayudar a identificar sus necesidades particulares.
 * Seleccionar el número óptimo de Clusters que permita una adecuada segmentación de mercado específico.
-* Investigar y aplicar modelo de análisis de componentes principales PCA que permita establecer una varianza explicada de los datos de mínimo 90%.
+* Investigar y aplicar modelo de análisis de componentes principales PCA que permita establecer una varianza explicada de los datos de mínimo 80%.
 
 
 ## Implicaciones Éticas en modelos de Machine Learning
